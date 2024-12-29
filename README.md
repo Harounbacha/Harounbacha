@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Haroun bacha
 - 👀 I’m interested in coding & learning new things
-- 🌱 I’m currently learning c programing "first year in university"
 - 📫 How to reach me my gmail is harounbacha2005@gmail.com
-- 
