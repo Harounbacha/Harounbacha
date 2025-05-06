@@ -53,11 +53,11 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
+<p align="center" border="20px">
   <a href="https://www.linkedin.com/in/haroun-errachid-bacha/">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-MY_linkedin-blue?style=flat-square&logo=linkedin">
   </a>
-    <a padding="20px" href="mailto:harounbacha2005@gmail.com">
+    <ahref="mailto:harounbacha2005@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-harounbacha2005@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
