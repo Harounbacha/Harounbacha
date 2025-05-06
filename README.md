@@ -10,6 +10,7 @@
 - 📫 How to reach me **harounbacha2005@gmail.com**
 
 - ⚡ Fun fact **I drink more coffee than my code consumes memory.**
+<p align="right"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ2cHNqNGVmdnJiNjk5bGl6dGZoM3diYjNmZGxldWJ1MXhpYTJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt=""></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
