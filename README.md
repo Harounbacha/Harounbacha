@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/haroun-errachid-bacha/">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-MY_linkedin-blue?style=flat-square&logo=linkedin">
   </a>
-    <a border="20px" href="mailto:harounbacha2005@gmail.com">
+    <a padding="20px" href="mailto:harounbacha2005@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-harounbacha2005@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
