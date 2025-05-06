@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and UI/UX design.
 - 🎓 &nbsp; Studying Computer Science at the University of barika.
 - 🌱 &nbsp; Learning more about Quantum Computing and Artificial Intelligence.
-<p align="center">
+<p align="left">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ2cHNqNGVmdnJiNjk5bGl6dGZoM3diYjNmZGxldWJ1MXhpYTJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="400" alt="fun gif">
   </p>
 
