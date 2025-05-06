@@ -8,6 +8,7 @@
 - 🌱 &nbsp; Learning more about Quantum Computing and Artificial Intelligence.
 <p align="left">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ2cHNqNGVmdnJiNjk5bGl6dGZoM3diYjNmZGxldWJ1MXhpYTJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="fun gif">
+        <img src="https://media.giphy.com/media/SV09Wp6hvMW7m/giphy.gif?cid=ecf05e47vgct948a8m0cr0zgjmtrgbrme5h9wqlh9bh70ldf&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="onepunch" width="300" />
   </p>
 
 
