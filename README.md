@@ -53,5 +53,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="harounbacha2005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harounbacha2005@gmail.com-blue?style=flat-square&logo=gmail">harounbacha2005@gmail.com</a>
+<a href="harounbacha2005@gmail.com"><button alt="Email" src="https://img.shields.io/badge/Email-harounbacha2005@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
