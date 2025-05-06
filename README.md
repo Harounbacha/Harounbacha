@@ -53,7 +53,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center" styles= "padding:20px;">
+<p align="center" style="padding:10px;">
   <a href="https://www.linkedin.com/in/haroun-errachid-bacha/">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-MY_linkedin-blue?style=flat-square&logo=linkedin">
   </a>
